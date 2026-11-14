@@ -16,3 +16,12 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/rrr752635-a11y).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Mosslight
+
+A complete, cozy 2D platform adventure. Collect 8 fireflies, avoid the brambles, and reach the moon gate. The fox has three hearts and can double-jump; glowing lanterns mark checkpoints.
+
+- **Move:** A/D or ←/→
+- **Jump / double-jump:** Space, W, or ↑
+- **Touch:** On-screen move and jump buttons appear on smaller screens
+- **Play locally:** Open `index.html` in a browser, or serve this folder with any static web server.
